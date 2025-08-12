@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-docx
+PyPDF2
+spacy
+pandas
+scikit-learn
+nltk
+waitress
